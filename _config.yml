@@ -1,0 +1,14 @@
+layout_spectrum: 0.16114849946461618
+typography_spectrum: 0.7681337257381529
+color:
+  brandStrength: 0.3821059809997678
+  lightness: 0.3902546272147447
+  saturation: 0.19596965261735022
+  rhythmicContrast: 0.4217227769549936
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: marcovalente
