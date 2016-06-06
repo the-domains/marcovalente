@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[marcovalente]]></title>
+        <description><![CDATA[marcovalente]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Jun 2016 08:16:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A brief history of the Future]]></title>
+            <description><![CDATA[<article><h1>A brief history of the Future</h1><p>In this post I will share a retrospective of our studies and approaches with the future, over the last 40 years or so, up until the most recent developments, and a few ideas on what could be coming next.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7478847a08aa98721f7d5cef1b79e09a99e084cb.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/brief-history-future-marco-valente</link>
+            <guid isPermaLink="false">3149c767-e4fa-4502-a063-68c7b10f9d61</guid>
+            <pubDate>Mon, 06 Jun 2016 08:16:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
