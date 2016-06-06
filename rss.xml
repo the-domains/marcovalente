@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[marcovalente]]></title>
         <description><![CDATA[marcovalente]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcovalente/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 08:16:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 08:16:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcovalente/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scenarios: much more than informed guesses at the future]]></title>
+            <description><![CDATA[<article><h1>Scenarios: much more than informed guesses at the future</h1><p>(This is the second essay of my Futures series. The first post is ) In this blog post we take a deeper dive into the scenario analysis and its evolution from the 70's up until the last decade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b227f04e7c05739dd7b27d6b437c88a5f6b272.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/scenarios-much-more-than-informed-guesses-future-history-valente</link>
+            <guid isPermaLink="false">2c0e8216-44a8-40b7-89ba-9fe75bcb6dd2</guid>
+            <pubDate>Mon, 06 Jun 2016 08:16:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A brief history of the Future]]></title>
             <description><![CDATA[<article><h1>A brief history of the Future</h1><p>In this post I will share a retrospective of our studies and approaches with the future, over the last 40 years or so, up until the most recent developments, and a few ideas on what could be coming next.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7478847a08aa98721f7d5cef1b79e09a99e084cb.jpg"></article>]]></description>
